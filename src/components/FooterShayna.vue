@@ -7,13 +7,13 @@
           <div class="footer-left text-left">
             <div class="footer-logo">
               <a href="#">
-                <img src="img/logo_website_shayna_white.png" alt />
+                <img src="img/logo_website_sablon_white.png" alt />
               </a>
             </div>
             <ul>
-              <li>Address: Setra Duta, Bandung</li>
+              <li>Address: Pasar Kemis, Tangerang</li>
               <li>Phone: +628 22081996</li>
-              <li>Email: hello.shayna@gmail.com</li>
+              <li>Email: hello.nakhla-sablon@gmail.com</li>
             </ul>
             <div class="footer-social">
               <a href="#">
@@ -77,7 +77,7 @@
           <div class="col-lg-12">
             <div class="copyright-text">
               Copyright &copy;
-              2019 - 2025 All rights reserved | Shayna
+              2020 - 2025 All rights reserved | Nakhla Sablon
             </div>
           </div>
         </div>

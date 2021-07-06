@@ -141,7 +141,7 @@
                     </li>
                   </ul>
                   <!-- <router-link to="/success"> -->
-                    <a @click="checkout()" href="#" class="proceed-btn">I ALREADY PAID</a>
+                    <a @click="checkout()" href="https://api.whatsapp.com/send?phone=6281316682467&text=Halo%20Bro%0A%0ASaya%20mau%0Apesan%20:" class="proceed-btn">I ALREADY PAID</a>
                   <!-- </router-link> -->
                 </div>
               </div>
