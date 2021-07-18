@@ -5,7 +5,7 @@
       <div class="inside-text">
         <i class="ti-instagram"></i>
         <h5>
-          <a href="#">nakhla-sablon_gallery</a>
+          <a href="https://www.instagram.com/nakhla_sablon_ariefpurnama/?utm_medium=copy_link+00.24">nakhla_sablon_ariefpurnama</a>
         </h5>
       </div>
     </div>
@@ -13,7 +13,7 @@
       <div class="inside-text">
         <i class="ti-instagram"></i>
         <h5>
-          <a href="#">nakhla-sablon_gallery</a>
+          <a href="https://www.instagram.com/nakhla_sablon_ariefpurnama/?utm_medium=copy_link+00.24">nakhla_sablon_ariefpurnama</a>
         </h5>
       </div>
     </div>
@@ -21,7 +21,7 @@
       <div class="inside-text">
         <i class="ti-instagram"></i>
         <h5>
-          <a href="#">nakhla-sablon_gallery</a>
+          <a href="https://www.instagram.com/nakhla_sablon_ariefpurnama/?utm_medium=copy_link+00.24">nakhla_sablon_ariefpurnama</a>
         </h5>
       </div>
     </div>
@@ -29,7 +29,7 @@
       <div class="inside-text">
         <i class="ti-instagram"></i>
         <h5>
-          <a href="#">nakhla-sablon_gallery</a>
+          <a href="https://www.instagram.com/nakhla_sablon_ariefpurnama/?utm_medium=copy_link+00.24">nakhla_sablon_ariefpurnama</a>
         </h5>
       </div>
     </div>
@@ -37,7 +37,7 @@
       <div class="inside-text">
         <i class="ti-instagram"></i>
         <h5>
-          <a href="#">nakhla-sablon_gallery</a>
+          <a href="https://www.instagram.com/nakhla_sablon_ariefpurnama/?utm_medium=copy_link+00.24">nakhla_sablon_ariefpurnama</a>
         </h5>
       </div>
     </div>
@@ -45,7 +45,7 @@
       <div class="inside-text">
         <i class="ti-instagram"></i>
         <h5>
-          <a href="#">nakhla-sablon_gallery</a>
+          <a href="https://www.instagram.com/nakhla_sablon_ariefpurnama/?utm_medium=copy_link+00.24">nakhla_sablon_ariefpurnama</a>
         </h5>
       </div>
     </div>

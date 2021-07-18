@@ -7,9 +7,9 @@
           <div class="container">
             <div class="row">
               <div class="col-lg-5">
-                <span>Bag,kids</span>
-                <h1>Black friday</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+                <span>Jasa & Penjualan</span>
+                <h1>NAKHLA SABLON</h1>
+                <p>Jasa percetakan, penjualan kaos polos dll</p>
                 <a href="#" class="primary-btn">Shop Now</a>
               </div>
             </div>
@@ -18,12 +18,12 @@
         <div class="single-hero-items set-bg" style="background-image: url('/img/hero-2.jpg')">
           <div class="container">
             <div class="row">
-              <div class="col-lg-5">
+              <!-- <div class="col-lg-5">
                 <span>Bag,kids</span>
                 <h1>Black friday</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
                 <a href="#" class="primary-btn">Shop Now</a>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
@@ -31,9 +31,9 @@
           <div class="container">
             <div class="row">
               <div class="col-lg-5">
-                <span>Bag,kids</span>
-                <h1>Black friday</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+                <span>Kami</span>
+                <h1>Nakhla Sablon</h1>
+                <p>Melayani segenap hati dan terbaik</p>
                 <a href="#" class="primary-btn">Shop Now</a>
               </div>
             </div>

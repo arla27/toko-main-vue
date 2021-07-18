@@ -60,7 +60,7 @@
                   </div>
                   <div class="select-total">
                     <span>total:</span>
-                    <h5>${{ totalHarga }}.00</h5>
+                    <h5>Rp. {{ totalHarga }}</h5>
                   </div>
                   <div class="select-button">
                     <a href="#" class="primary-btn view-card">

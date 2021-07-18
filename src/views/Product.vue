@@ -50,7 +50,7 @@
                   </div>
                   <div class="pd-desc">
                     <p v-html="productDetails.description"></p>
-                    <h4>${{ productDetails.price }}</h4>
+                    <h4>Rp.{{ productDetails.price }}</h4>
                   </div>
                   <div class="quantity">
                     <router-link to="/cart">

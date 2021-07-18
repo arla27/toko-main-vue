@@ -16,18 +16,18 @@
               <li>Email: hello.nakhla-sablon@gmail.com</li>
             </ul>
             <div class="footer-social">
-              <a href="#">
+              <a href="https://www.facebook.com/nakhla_sablon_ariefpurnama-109354680584980/?hc_ref=ARRwyIFX0a1izjO6EDsqbkUnGMtT8Zdj_xRqmQGfmOQrSv977nLZS6QnUYeSMv6pezo&fref=nf&__xts__[0]=68.ARDrctCKwU-G5BmOT8qAGzIhVTaylLFOGaN-SUMm5Rr08ZQvW52vOloD4KB8P6I6G9bGFQB5G1J6NI4VtXc9-xO9kvl2690lz7MuPIKoYoI78nSNFejJTZWlBoGF5XyCiLeIbhVr43w9U_MtWH4NULLJ-AdKfPWUQ11LWXrNB560aO9IWIlw8zZDjYy0aEB6lQuiG6pZR7ADZMmj7MN-UAtG51IY-OJKm01E6Fn_kLP9MEZAetkXW_wt_QJqr2D_RaGkeM42EGMlNH1TisdqEBGPzEtkwn8fuOFABgUphMdGUCABm7Q&__tn__=kC-R">
                 <i class="fa fa-facebook"></i>
               </a>
-              <a href="#">
+              <a href="https://www.instagram.com/nakhla_sablon_ariefpurnama/?utm_medium=copy_link+00.24">
                 <i class="fa fa-instagram"></i>
               </a>
-              <a href="#">
+              <!-- <a href="#">
                 <i class="fa fa-twitter"></i>
               </a>
               <a href="#">
                 <i class="fa fa-pinterest"></i>
-              </a>
+              </a> -->
             </div>
           </div>
         </div>

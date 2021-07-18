@@ -44,7 +44,7 @@
                         <td class="cart-title first-row text-center">
                           <h5>{{ keranjang.name }}</h5>
                         </td>
-                        <td class="p-price first-row">${{ keranjang.price }}</td>
+                        <td class="p-price first-row">Rp.{{ keranjang.price }}</td>
                         <td @click="removeItem(keranjangUser.index)" class="delete-item">
                           <a href="#">
                             <i class="material-icons">close</i>
@@ -117,15 +117,15 @@
                     </li>
                     <li class="subtotal mt-3">
                       Subtotal
-                      <span>${{ totalHarga }}.00</span>
+                      <span>RP.{{ totalHarga }}.00</span>
                     </li>
                     <li class="subtotal mt-3">
                       Pajak
-                      <span>10% ${{ ditambahPajak }}.00</span>
+                      <span>10% RP.{{ ditambahPajak }}.00</span>
                     </li>
                     <li class="subtotal mt-3">
                       Total Biaya
-                      <span>${{ totalBiaya }}.00</span>
+                      <span>Rp.{{ totalBiaya }}.00</span>
                     </li>
                     <li class="subtotal mt-3">
                       Bank Transfer
@@ -137,12 +137,13 @@
                     </li>
                     <li class="subtotal mt-3">
                       Nama Penerima
-                      <span>Shayna</span>
+                      <span>NAKHLA SABLON</span>
                     </li>
                   </ul>
-                  <!-- <router-link to="/success"> -->
-                    <a @click="checkout()" href="https://api.whatsapp.com/send?phone=6281316682467&text=Halo%20Bro%0A%0ASaya%20mau%0Apesan%20:" class="proceed-btn">I ALREADY PAID</a>
-                  <!-- </router-link> -->
+
+                  <!--<router-link to="/success">-->
+                    <a @click="checkout()" href="#" class="proceed-btn">I ALREADY PAID</a>
+                  <!--</router-link>-->
                 </div>
               </div>
             </div>
@@ -198,7 +199,7 @@ export default {
 
       axios
         .post(
-          "http://shayna-backend.belajarkoding.com/api/checkout",
+          "http://127.0.0.1:8000/api/checkout",
           checkoutData
         )
         .then(() => this.$router.push("success"))
